@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<presentation availableOffline="1" guid="D00004CF-535B-4EFE-AAF0-ED5FC4988721" version="0">
+	<info>
+		<title>2022-06-15 Malola Education Online Exam-24 Mains Level II</title>
+		<description/>
+	</info>
+	<files index="id27" thumbnail="id23" totalSize="3703065">
+		<file id="id0">data/apple-touch-icon.png</file>
+		<file id="id1">data/browsersupport.js</file>
+		<file id="id2">data/favicon.ico</file>
+		<file id="id3">data/fonts/fnt0.woff</file>
+		<file id="id4">data/fonts/fnt1.woff</file>
+		<file id="id5">data/fonts/fnt2.woff</file>
+		<file id="id6">data/fonts/fnt3.woff</file>
+		<file id="id7">data/html5-unsupported.html</file>
+		<file id="id8">data/html5.png</file>
+		<file id="id9">data/images/img-0bf9aedfd79c33c8dd981b915c1c1b4ceec2b6f6.PNG</file>
+		<file id="id10">data/images/img-1c5c8a08e9fcf3a8c8806f0b073c7cd712a86116.jpg</file>
+		<file id="id11">data/images/img-249459dcd9d6ec1860f8e252fd4e00291c1dc702.jpg</file>
+		<file id="id12">data/images/img-25b847956cfb2fbf7481b145174f56dbc7a5ceec.png</file>
+		<file id="id13">data/images/img-33dcbc11f7e7893fff3ae2688e1a45b076e36458.PNG</file>
+		<file id="id14">data/images/img-40181a415dc3c5d791d874453d47246444414193.jpg</file>
+		<file id="id15">data/images/img-66e6158d257b3c92140c751fafa6bf3cc74abf9b.jpg</file>
+		<file id="id16">data/images/img-723bb5a10331810110fed6d93c0cecb8ba532610.PNG</file>
+		<file id="id17">data/images/img-8e5a875c4e51d5888e4399c8a19b3638b00d0729.PNG</file>
+		<file id="id18">data/images/img-cb0c8f99999a6bc4e4414b39834ebe7b0db2951f.PNG</file>
+		<file id="id19">data/images/img-d1c3777cd6eb6d23208f5bc4a7cf454c4407c20a.jpg</file>
+		<file id="id20">data/images/img-d6e4f45be799c7476925c35df55d3fa8ec38d74d.jpg</file>
+		<file id="id21">data/ismplayer/app_store2x.png</file>
+		<file id="id22">data/ismplayer/play.svg</file>
+		<file id="id23">data/ismplayer/preview.png</file>
+		<file id="id24">data/ismplayer/style.css</file>
+		<file id="id25">data/ismplayer/style_mini.css</file>
+		<file id="id26">data/player.js</file>
+		<file id="id27">index.html</file>
+		<file id="id28">ismplayer.html</file>
+		<file id="id29">preview.png</file>
+	</files>
+</presentation>
+
